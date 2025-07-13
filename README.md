@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td><b>📝 To-Do List</b><br><a href="https://github.com/kurubasrija/To-Do-List">GitHub Repo</a><br>Simple task manager using Python</td>
+    <td><b>📝 To-Do App</b><br><a href="https://github.com/kurubasrija/todo-app.git">GitHub Repo</a><br>Simple task manager using Python</td>
     <td><b>🎮 Number Guessing Game</b><br><a href="https://github.com/kurubasrija/Number-guessing-game">GitHub Repo</a><br>Fun game to guess a random number</td>
   </tr>
   <tr>
