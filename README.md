@@ -27,14 +27,14 @@
 <table>
   <tr>
     <td><b>📝 To-Do App</b><br><a href="https://github.com/kurubasrija/todo-app.git">GitHub Repo</a><br>Simple task manager using Python</td>
-    <td><b>🎮 Number Guessing Game</b><br><a href="https://github.com/kurubasrija/Number-guessing-game">GitHub Repo</a><br>Fun game to guess a random number</td>
+    <td><b>🎮 Number Guessing Game</b><br><a href="https://github.com/kurubasrija/Number-guessing-game.git">GitHub Repo</a><br>Fun game to guess a random number</td>
   </tr>
   <tr>
-    <td><b>📇 Contact Book</b><br><a href="https://github.com/kurubasrija/Contact-Book">GitHub Repo</a><br>Manage contacts from command line</td>
-    <td><b>🔐 Password Generator</b><br><a href="https://github.com/kurubasrija/Password-Generator">GitHub Repo</a><br>Secure random password generator</td>
+    <td><b>📇 Contact Book</b><br><a href="https://github.com/kurubasrija/Contact-Book.git">GitHub Repo</a><br>Manage contacts from command line</td>
+    <td><b>🔐 Password Generator</b><br><a href="https://github.com/kurubasrija/Password-Generator.git">GitHub Repo</a><br>Secure random password generator</td>
   </tr>
   <tr>
-    <td colspan="2"><b>📅 Age Calculator</b><br><a href="https://github.com/kurubasrija/Age-Calculator">GitHub Repo</a><br>CLI tool to calculate age from birthdate</td>
+    <td colspan="2"><b>📅 Age Calculator</b><br><a href="https://github.com/kurubasrija/Age-Calculator.git">GitHub Repo</a><br>CLI tool to calculate age from birthdate</td>
   </tr>
 </table>
 
